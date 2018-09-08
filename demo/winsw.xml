@@ -1,0 +1,8 @@
+<service>
+    <id>NetKeeper</id>
+    <name>NetKeeper</name>
+    <description>合工大校园网保持连接服务</description>
+    <executable>java</executable>
+    <arguments>-jar netkeeper.jar loginDrcom.bat your_email_address</arguments>
+    <logmode>reset</logmode>
+</service>

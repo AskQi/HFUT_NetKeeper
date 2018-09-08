@@ -1,0 +1,2 @@
+sc delete NetKeeper
+pause
