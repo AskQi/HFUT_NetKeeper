@@ -8,6 +8,6 @@
 ## 卸载方法：
 以管理员身份运行“uninstall.bat”
 ## 说明：
-自动登录用的 lhlybly 的 hfut-autologin 方案([点击查看]!https://github.com/AskQi/hfut-autologin)，侵删。
+自动登录用的 lhlybly 的 hfut-autologin 方案:https://github.com/lhlybly/hfut-autologin/
 ## 联系我：
 如果遇到问题可以联系齐大：974830507@qq.com
